@@ -1,0 +1,73 @@
+{
+    "todos": [{
+            "id": 1,
+            "name": "Ime 1",
+            "column1": "0",
+            "column2": "0",
+            "done": true
+        },
+        {
+            "id": 2,
+            "name": "Rec 1",
+            "column1": "1",
+            "column2": "1",
+            "done": false
+        },
+        {
+            "id": 3,
+            "name": "Rec 2",
+            "column1": "2",
+            "column2": "2",
+            "done": false
+        },
+        {
+            "id": 4,
+            "name": "Rec 3",
+            "column1": "3",
+            "column2": "3",
+            "done": true
+        },
+        {
+            "id": 5,
+            "name": "Rec 4",
+            "column1": "4",
+            "column2": "4",
+            "done": true
+        },
+        {
+            "id": 6,
+            "name": "Rec 5",
+            "column1": "5",
+            "column2": "5",
+            "done": false
+        },
+        {
+            "id": 7,
+            "name": "Rec 6",
+            "column1": "6",
+            "column2": "6",
+            "done": true
+        },
+        {
+            "id": 8,
+            "name": "Rec 7",
+            "column1": "7",
+            "column2": "7",
+            "done": true
+        },
+        {
+            "id": 9,
+            "name": "Rec 8",
+            "column1": "8",
+            "column2": "8",
+            "done": false
+        },
+        {
+            "id": 10,
+            "name": "Rec 9",
+            "column1": "9",
+            "column2": "88",
+            "done": true
+        }
+    ]
+}
